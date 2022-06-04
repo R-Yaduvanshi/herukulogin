@@ -8,6 +8,7 @@ const Feeds = () => {
       <h2>Virat Kohli</h2>
       <h2>Gautam Gambhir</h2>
       <h2>Zahir Khan</h2>
+      <h2>Advik Yadav</h2>
     </div>
   );
 };
